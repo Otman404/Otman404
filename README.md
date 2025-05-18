@@ -18,9 +18,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dockerizing a RAG Application with FastAPI, LlamaIndex, Qdrant and Ollama](https://otmaneboughaba.com/posts/dockerize-rag-application/)
 - [Model Context Protocol - Let&#39;s build an MCP server in Python](https://otmaneboughaba.com/posts/model-context-protocol/)
 - [Simple Word2Vec implementation in PyTorch](https://otmaneboughaba.com/posts/Word2Vec-in-Pytorch/)
 - [Building a Local RAG api with LlamaIndex, Qdrant, Ollama and FastAPI](https://otmaneboughaba.com/posts/local-rag-api/)
 - [Use custom LLMs from Hugging Face locally with Ollama](https://otmaneboughaba.com/posts/local-llm-ollama-huggingface/)
-- [Artwork Similarity Search - Exploring the Power of Vector Databases](https://otmaneboughaba.com/posts/artwork-similarity-search/)
 <!-- BLOG-POST-LIST:END -->
