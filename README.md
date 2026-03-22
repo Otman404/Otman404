@@ -18,9 +18,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Now Lets You Crawl the Web - The Same Company That Spent Years Stopping You](https://otmaneboughaba.com/posts/cloudfare-crawler/)
 - [Building a Local RAG Pipeline for the Hollow Knight Wiki with Crawl4ai, Supabase and Ollama](https://otmaneboughaba.com/posts/hollow-knight-rag/)
 - [Dockerizing a RAG Application with FastAPI, LlamaIndex, Qdrant and Ollama](https://otmaneboughaba.com/posts/dockerize-rag-application/)
 - [Model Context Protocol - Let&#39;s build an MCP server in Python](https://otmaneboughaba.com/posts/model-context-protocol/)
 - [Simple Word2Vec implementation in PyTorch](https://otmaneboughaba.com/posts/Word2Vec-in-Pytorch/)
-- [Building a Local RAG api with LlamaIndex, Qdrant, Ollama and FastAPI](https://otmaneboughaba.com/posts/local-rag-api/)
 <!-- BLOG-POST-LIST:END -->
